@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\data\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\data\\uygulamadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\models\\firma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\models\\firma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\migrations\\uygulamadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\migrations\\uygulamadbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\firmalar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\firmalar\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\firmalar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\firmalar\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\firmalar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\firmalar\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\migrations\\20250609111806_ilkolusturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\migrations\\20250609111806_ilkolusturma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\firmalar\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\firmalar\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\controllers\\firmalarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\controllers\\firmalarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\firmalar\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\firmalar\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\musteribilgibankasi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\musteribilgibankasi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|c:\\users\\efe\\source\\repos\\musteribilgibankasi\\musteribilgibankasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A9EC27-9F7B-4CC3-8D6F-E4F3B3BC4C57}|MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj|solutionrelative:musteribilgibankasi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\.gitignore",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\.gitignore",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\.gitignore",
+              "RelativeToolTip": "MusteriBilgiBankasi\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-25T09:14:47.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T08:27:42.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-09T22:32:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\appsettings.json",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\appsettings.json",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\appsettings.json",
+              "RelativeToolTip": "MusteriBilgiBankasi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-09T10:58:07.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\appsettings.Development.json",
+              "RelativeToolTip": "MusteriBilgiBankasi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-24T22:24:21.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UygulamaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Data\\UygulamaDbContext.cs",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Data\\UygulamaDbContext.cs",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Data\\UygulamaDbContext.cs",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Data\\UygulamaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:54:57.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UygulamaDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Migrations\\UygulamaDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T23:06:16.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T23:12:31.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Firmalar\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Edit.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Firmalar\\Edit.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:26:59.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Firmalar\\Index.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Index.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Firmalar\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T20:09:02.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Create.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Firmalar\\Create.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Create.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Firmalar\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T19:59:02.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Firma.cs",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Models\\Firma.cs",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Models\\Firma.cs",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Models\\Firma.cs",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Models\\Firma.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T11:25:15.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250609111806_IlkOlusturma.cs",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Migrations\\20250609111806_IlkOlusturma.cs",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Migrations\\20250609111806_IlkOlusturma.cs",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Migrations\\20250609111806_IlkOlusturma.cs",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Migrations\\20250609111806_IlkOlusturma.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:18:07.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Firmalar\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Delete.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Firmalar\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:31:15.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Details.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Firmalar\\Details.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Firmalar\\Details.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Firmalar\\Details.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T15:27:39.56Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T20:17:43.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FirmalarController.cs",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Controllers\\FirmalarController.cs",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Controllers\\FirmalarController.cs",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Controllers\\FirmalarController.cs",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Controllers\\FirmalarController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T22:28:58.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MusteriBilgiBankasi.csproj",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj",
+              "RelativeToolTip": "MusteriBilgiBankasi\\MusteriBilgiBankasi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T19:56:30.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAADPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-12T20:10:11.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Program.cs",
+              "RelativeDocumentMoniker": "MusteriBilgiBankasi\\Program.cs",
+              "ToolTip": "C:\\Users\\efe\\source\\repos\\MusteriBilgiBankasi\\MusteriBilgiBankasi\\Program.cs",
+              "RelativeToolTip": "MusteriBilgiBankasi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:02:28.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
